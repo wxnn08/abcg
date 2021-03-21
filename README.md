@@ -6,7 +6,7 @@
 
 Você é um avião sobrevoando o mar e se depara com alguns obstáculos ao longo do caminho. O objetivo é simples: desvie de tudo e consiga a maior quantidade de pontos possíveis!
 
-##Comandos
+## Comandos
 
 - **Seta para esquerda / botão esquerdo do mouse:** move o avião para a esquerda.
 
