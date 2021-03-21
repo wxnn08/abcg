@@ -1,11 +1,13 @@
-# ABCg
+- Wesley Pereira da Silva
 
-Development framework accompanying the course [MCTA008-17 Computer Graphics](http://professor.ufabc.edu.br/~harlen.batagelo/cg/) at [UFABC](https://www.ufabc.edu.br/).
+- RA: 11006216
 
-## Author
+# PLANE GAME
 
-Harlen Batagelo
+Você é um avião sobrevoando o mar e se depara com alguns obstáculos ao longo do caminho. O objetivo é simples: desvie de tudo e consiga a maior quantidade de pontos possíveis!
 
-## License
+##Comandos
 
-MIT
+- **Seta para esquerda / botão esquerdo do mouse:** move o avião para a esquerda.
+
+- **Seta para direita / botão direito do mouse:** move o avião para a direita.
