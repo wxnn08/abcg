@@ -46,7 +46,7 @@ class WallObstacle {
 		GLuint m_vbo{};
 		GLuint m_ebo{};
 
-		glm::vec4 m_color{1, 1, 1, 1.0f};
+		glm::vec4 m_color{0, 0, 0, 1.0f};
 		glm::vec2 m_scale{1.0f, 0.5f};
 		glm::vec2 m_translation{glm::vec2(0)};
 		glm::vec2 m_velocity{glm::vec2(0)};
